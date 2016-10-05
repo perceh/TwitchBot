@@ -22,3 +22,5 @@ script5.ini -> contains a all commands command that shows all commands upon typi
 script6.ini -> contains a contains an easter egg "Kappa counter" which counts all the Kappa emotes spammed since the bot went online
 
 script7.ini -> contains a add greetings command, that allows a mod to add a greeting if someone uses one that isn't in the greeting.txt
+
+script8.ini -> contains the same code as the timed message from script3.ini, but now with informational text instead of links

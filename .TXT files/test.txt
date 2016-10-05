@@ -1,0 +1,1 @@
+I'm currently testing this bot in my channel. I'd greatly appreciate it if you would try to test any functions/commands in chat to see if they work properly. Also, tell me what you're missing or what you would like to work differently from how it does now.
